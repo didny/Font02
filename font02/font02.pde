@@ -74,7 +74,3 @@ line(p9[0],p9[1],p0[0],p0[1]); //line p9 to p0
 
 save("font02.jpg");
 
- 
-
- 
-
